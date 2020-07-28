@@ -24,8 +24,14 @@ In this project we will be using the QRCode class.
 
 
 Following are the QR codes generated for the "www.google.com" and "www.udemy.com" through this project
+
 *www.google.com
-![](image/google.com QR Code.png)
+
+![](image/google.com%20QR%20Code.png)
+
 *www.udemy.com
+
 ![](image/udemy.png)
  
+# Execution:
+-> python QR_code_generator.py
