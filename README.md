@@ -24,8 +24,8 @@ In this project we will be using the QRCode class.
 
 
 Following are the QR codes generated for the "www.google.com" and "www.udemy.com" through this project
-# www.google.com
-![]()
-# www.udemy.com
-![]()
+*www.google.com
+![](image/google.com QR Code.png)
+*www.udemy.com
+![](image/udemy.png)
  
