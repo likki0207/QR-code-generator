@@ -9,5 +9,6 @@ For a standard install (which will include pillow for generating images), run:
 
 # How will this project work?
 In this project we will be using the QRCode class. 
+![](image/qrcode-class.png)
 
 
